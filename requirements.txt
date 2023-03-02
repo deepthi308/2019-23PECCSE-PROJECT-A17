@@ -1,0 +1,11 @@
+streamlit
+base-62
+opencv-python
+numpy
+matplotlib
+pillow
+tensorflow
+keras
+pandas
+sklearn
+keras.preprocessing.image
