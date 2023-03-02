@@ -6,6 +6,8 @@ We took the dataset from Kaggle to train and test the models
 
 
 
+## Project Demo
+[Demo video link 🎥](https://youtu.be/RRUVH7K5UUA)
 ## Team Members
 - [@bharghavi](https://github.com)
 - [@mathumita](https://github.com)
@@ -47,4 +49,6 @@ To excute this project on web browser
 ```bash
   streamlit run app.py
 ```
+
+
 
