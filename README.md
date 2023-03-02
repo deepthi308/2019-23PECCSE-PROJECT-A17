@@ -1,5 +1,4 @@
 # Detection and Classification of Diabetic Retinopathy using Hybrid Models
-
 We created a website, where the user can able to upload their fundus images to find whether they have diabetic retinopathy or not. If they have diabetic retinopathy, it will also display what type of diabetic retinopathy it is.
 
 
@@ -24,3 +23,23 @@ Whether a person have DR or not
 ```http
 What type of Diabetic Retinopathy it is
 ```
+
+
+
+## Output Images
+
+![Screenshot1](outputImages/DrImage1)
+![Screenshot2](outputImages/DrImage2)
+![Screenshot3](outputImages/DrImage3)
+![Screenshot4](outputImages/DrImage4)
+
+
+## Deployment
+
+To excute this project on web browser
+
+```bash
+  streamlit run app.py
+```
+
+
