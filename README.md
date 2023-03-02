@@ -28,10 +28,10 @@ What type of Diabetic Retinopathy it is
 
 ## Output Images
 
-![Screenshot1](outputImages/DrImage1)
-![Screenshot2](outputImages/DrImage2)
-![Screenshot3](outputImages/DrImage3)
-![Screenshot4](outputImages/DrImage4)
+![Screenshot1](outputImages/DrImage1.png)
+![Screenshot2](outputImages/DrImage2.png)
+![Screenshot3](outputImages/DrImage3.png)
+![Screenshot4](outputImages/DrImage4.png)
 
 
 ## Deployment
@@ -41,5 +41,7 @@ To excute this project on web browser
 ```bash
   streamlit run app.py
 ```
+
+
 
 
