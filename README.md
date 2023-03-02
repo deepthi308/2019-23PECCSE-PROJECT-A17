@@ -6,6 +6,12 @@ We took the dataset from Kaggle to train and test the models
 
 
 
+## Team Members
+- [@bharghavi](https://github.com)
+- [@mathumita](https://github.com)
+- [@deepthi308](https://github.com/deepthi308)
+
+
 ## Our Base Paper
 
 [Hybrid Retinal Image Enhancement Algorithm for Diabetic Retinopathy Diagnostic Using Deep Learning Model](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9819926)
@@ -41,7 +47,4 @@ To excute this project on web browser
 ```bash
   streamlit run app.py
 ```
-
-
-
 
