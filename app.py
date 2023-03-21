@@ -65,7 +65,7 @@ if st.button('Submit'):
     # DR detection
 
     OP1 = load_model(
-        r'C:\Users\Computer\Desktop\project-docs\DR app\Model1.h5')
+        r'./Model1.h5')
 
     IMG_SIZE = 224
     IM = np.array(FI)
@@ -104,7 +104,7 @@ elif prediction1 == 0:
     N = new_array.reshape(-1, IMG_SIZE, IMG_SIZE, 3)
 
     OP2 = load_model(
-        r'C:\Users\Computer\Desktop\project-docs\DR app\Model2.h5')
+        r'./Model2.h5')
 
     prediction = OP2.predict(N)
 
