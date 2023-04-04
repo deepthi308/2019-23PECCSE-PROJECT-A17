@@ -7,10 +7,10 @@ We took the dataset from Kaggle to train and test the models
 
 
 ## Project Demo
-[Demo video link 🎥](https://youtu.be/RRUVH7K5UUA)
+[Demo video link 🎥](https://youtu.be/JKR0SVPFDWA)
 ## Team Members
 - [@bharghavi](https://github.com)
-- [@mathumita](https://github.com)
+- [@mathumita](https://github.com/Mathumita)
 - [@deepthi308](https://github.com/deepthi308)
 
 
