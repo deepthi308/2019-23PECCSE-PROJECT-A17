@@ -36,10 +36,10 @@ What type of Diabetic Retinopathy it is
 
 ## Output Images
 
-![Screenshot1](outputImages/DrImage1.png)
-![Screenshot2](outputImages/DrImage2.png)
-![Screenshot3](outputImages/DrImage3.png)
-![Screenshot4](outputImages/DrImage4.png)
+![Screenshot1](ScreenShots/DrImage1.png)
+![Screenshot2](ScreenShots/DrImage2.png)
+![Screenshot3](ScreenShots/DrImage3.png)
+![Screenshot4](ScreenShots/DrImage4.png)
 
 
 ## Deployment
