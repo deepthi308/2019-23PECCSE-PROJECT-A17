@@ -7,7 +7,7 @@ We took the dataset from Kaggle to train and test the models
 
 
 ## Project Demo
-[Demo video link 🎥](https://youtu.be/JKR0SVPFDWA)
+[Click this link to watch the complete Demo video 🎥](https://youtu.be/JKR0SVPFDWA)
 
 https://user-images.githubusercontent.com/73683302/230598908-b2649283-4017-47f7-8095-dd1ab2c24323.mp4
 
