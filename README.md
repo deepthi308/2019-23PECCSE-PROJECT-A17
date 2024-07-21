@@ -13,8 +13,8 @@ https://user-images.githubusercontent.com/73683302/230598908-b2649283-4017-47f7-
 
 
 ## Team Members
-- [@deepthi308](https://github.com/deepthi308)
 - [@bharghavi](https://github.com)
+- [@deepthi308](https://github.com/deepthi308)
 - [@mathumita](https://github.com/Mathumita)
 
 
